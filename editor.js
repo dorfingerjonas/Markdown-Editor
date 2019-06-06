@@ -5,7 +5,7 @@
         previewText.innerHTML = '';
         // previewText.innerHTML += markdownText.value;
 
-        previewtext.innerHTML += compile(markdownText);
+        previewText.innerHTML += compile(markdownText);
 
         
 
