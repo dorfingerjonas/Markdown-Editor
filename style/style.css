@@ -33,6 +33,10 @@ header {
     border: 1px solid gray;
 }
 
+#previewText p {
+    text-align: left;
+}
+
 #markdown {
     width: 45vw;
 }
